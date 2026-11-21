@@ -1,0 +1,5 @@
+{
+  "name": "theme-claude",
+  "owner": { "name": "Neezerz" },
+  "plugins": [{ "name": "circuit-noir", "source": "./" }]
+}
